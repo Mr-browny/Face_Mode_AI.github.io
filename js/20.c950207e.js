@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[20],{"0ce8":function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\n    hey\n")])},a=[],s={name:"index",beforeCreate(){this.$router.push({name:"dashboard"})}},u=s,o=t("2877"),c=Object(o["a"])(u,r,a,!1,null,null,null);n["default"]=c.exports}}]);
